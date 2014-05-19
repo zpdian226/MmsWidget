@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GallaryBrowser!</string>
+    <string name="app_name">MmsWidget</string>
+    <string name="title">Delete</string>
+    <string name="delete">"Delete this Message?"</string>
+    <string name="yes">Yes</string>
+    <string name= "no">No</string>
+    <string name="unread">Unread Message</string>
+    <string name="date_format">"yyyy MM dd,EE,hh:mm a"</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "replay_l">30dip</dimen>
+    <dimen name = "replay_t">234dip</dimen>
+    <dimen name = "replay_r">75dip</dimen>
+    <dimen name = "replay_b">266dip</dimen>
+</resources>

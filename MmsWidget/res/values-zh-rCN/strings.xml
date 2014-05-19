@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GallaryBrowser!</string>
+    <string name="app_name">短信小插件</string>
+    <string name="title">删除</string>
+    <string name="delete">"删除此信息?"</string>
+    <string name="yes">确定</string>
+    <string name= "no">取消</string>
+    <string name="unread">未读短信</string>
+    <string name="date_format">"yyyy年M月dd日,EE,hh:mm a"</string>
+</resources>
